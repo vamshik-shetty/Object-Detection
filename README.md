@@ -35,15 +35,15 @@ The object detection model efficiently detects objects in real-time with high ac
 
 ![Object Detection Sample 1](assets/output1.png)
 
-| ![Object Detection Sample 1_1](images/output2.png) | ![Object Detection Sample 1_2](images/output3.png) |
+| ![Object Detection Sample 1_1](assets/output1_1.png) | ![Object Detection Sample 1_2](assets/output1_2.png) |
 |:------------------------------------------------:|:------------------------------------------------:|
 
 
 ### Sample Output 2
 
-![Object Detection Sample 2](images/output1.png)
+![Object Detection Sample 2](assets/output2.png)
 
-| ![Object Detection Sample 2_1](images/output2.png) | ![Object Detection Sample 2_2](images/output3.png) |
+| ![Object Detection Sample 2_1](assets/output2_1.png) | ![Object Detection Sample 2_2](assets/output2_2.png) |
 |:------------------------------------------------:|:------------------------------------------------:|
 
 
