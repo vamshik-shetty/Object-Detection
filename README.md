@@ -33,11 +33,10 @@ The object detection model efficiently detects objects in real-time with high ac
 
 ### Sample Output 1
 
-![Object Detection Sample 1](images/output1.png)
+![Object Detection Sample 1](assets/output1.png)
 
 | ![Object Detection Sample 1_1](images/output2.png) | ![Object Detection Sample 1_2](images/output3.png) |
 |:------------------------------------------------:|:------------------------------------------------:|
-| **Object Detection 2**                           | **Object Detection 3**                           |
 
 
 ### Sample Output 2
@@ -46,7 +45,6 @@ The object detection model efficiently detects objects in real-time with high ac
 
 | ![Object Detection Sample 2_1](images/output2.png) | ![Object Detection Sample 2_2](images/output3.png) |
 |:------------------------------------------------:|:------------------------------------------------:|
-| **Object Detection 2**                           | **Object Detection 3**                           |
 
 
 The results show the successful detection of multiple objects in a live video stream, with bounding boxes and labels clearly marking each detected object.
